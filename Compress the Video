@@ -1,0 +1,15 @@
+# cook your dish here
+import sys
+t = int(input())
+
+for _ in range(t):
+    n = int(input())
+    frames = list(map(int,input().split()))
+    
+    min_frame = n
+    
+    for i in range(n-1):
+        if frames[i] == frames[i+1]:
+            min_frame -= 1
+            
+    print(min_frame)
