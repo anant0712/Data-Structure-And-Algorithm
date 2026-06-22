@@ -25,8 +25,17 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
