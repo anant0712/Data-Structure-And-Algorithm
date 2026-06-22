@@ -8,6 +8,7 @@ Last updated: 24/03/2026
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
@@ -38,4 +39,9 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
