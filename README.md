@@ -29,6 +29,7 @@ Last updated: 24/03/2026
 | ------- |
 | [0002-add-two-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -47,4 +48,12 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
