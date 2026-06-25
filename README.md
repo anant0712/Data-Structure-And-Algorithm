@@ -12,6 +12,7 @@ Last updated: 24/03/2026
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
@@ -21,6 +22,7 @@ Last updated: 24/03/2026
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -42,6 +44,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -68,4 +71,12 @@ Last updated: 24/03/2026
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
