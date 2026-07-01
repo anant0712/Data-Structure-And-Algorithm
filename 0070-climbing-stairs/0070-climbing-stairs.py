@@ -5,9 +5,9 @@ class Solution:
         
         a,b=1,2
         for _ in range(3,n+1):
-            curr = a + b
-            a = b
-            b = curr
+            # curr = a + b
+            a,b = b,a+b
+            # b = curr
         
         return b
        
