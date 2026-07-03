@@ -44,6 +44,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 ## Recursion
