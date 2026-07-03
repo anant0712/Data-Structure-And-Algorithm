@@ -67,6 +67,7 @@ Last updated: 24/03/2026
 | [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
