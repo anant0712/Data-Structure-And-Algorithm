@@ -116,4 +116,20 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
