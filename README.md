@@ -42,6 +42,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
