@@ -21,6 +21,6 @@ class Solution:
             else:
                 pb = pb.next
 
-        return pb
+        return pa
         
 
