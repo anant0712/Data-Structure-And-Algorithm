@@ -44,6 +44,7 @@ Last updated: 24/03/2026
 | [0002-add-two-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
@@ -97,6 +99,7 @@ Last updated: 24/03/2026
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
