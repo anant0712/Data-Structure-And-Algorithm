@@ -19,6 +19,7 @@ Last updated: 24/03/2026
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,6 +30,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
