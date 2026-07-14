@@ -70,6 +70,7 @@ Last updated: 24/03/2026
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ Last updated: 24/03/2026
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
@@ -156,4 +158,8 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0100-same-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
