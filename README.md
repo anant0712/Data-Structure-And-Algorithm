@@ -94,6 +94,7 @@ Last updated: 24/03/2026
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
 | ------- |
@@ -163,4 +164,5 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
