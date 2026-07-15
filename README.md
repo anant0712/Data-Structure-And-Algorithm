@@ -61,6 +61,7 @@ Last updated: 24/03/2026
 | [0066-plus-one](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +166,8 @@ Last updated: 24/03/2026
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
