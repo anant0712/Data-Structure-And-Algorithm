@@ -11,4 +11,3 @@ class Solution:
             min_recolor = min(min_recolor,current_white)
 
         return min_recolor
-            
