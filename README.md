@@ -27,6 +27,7 @@ Last updated: 24/03/2026
 | [1331-rank-transform-of-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3637-trionic-array-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3637-trionic-array-i) |
@@ -65,6 +66,7 @@ Last updated: 24/03/2026
 | [0066-plus-one](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -181,6 +183,7 @@ Last updated: 24/03/2026
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
