@@ -18,6 +18,7 @@ Last updated: 24/03/2026
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0605-can-place-flowers) |
@@ -154,6 +155,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Number Theory
 |  |
@@ -191,4 +194,8 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0706-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
