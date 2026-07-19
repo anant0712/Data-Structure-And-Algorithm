@@ -25,6 +25,7 @@ Last updated: 24/03/2026
 | [0605-can-place-flowers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0605-can-place-flowers) |
 | [0706-design-hashmap](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0706-design-hashmap) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -159,6 +160,7 @@ Last updated: 24/03/2026
 | ------- |
 | [0035-search-insert-position](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Last updated: 24/03/2026
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Number Theory
 |  |
@@ -202,4 +205,5 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
