@@ -7,10 +7,8 @@ class Solution:
                 i+=1
                 j-=1
             return True
-            
-        left =0
-        right = len(s)-1
 
+        left,right = 0,len(s)-1
         while left < right:
             if s[left] != s[right]:
                 return is_pallindrome(left+1,right) or is_pallindrome(left,right-1)
