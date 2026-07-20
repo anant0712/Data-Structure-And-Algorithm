@@ -1,18 +1,19 @@
 class Solution:
-    def is_pallindrome(self,s,i,j):
+    def validPalindrome(self, s: str) -> bool:
+        def is_pallindrome(i,j):
             while i < j:
                 if s[i] != s[j]:
                     return False
                 i+=1
                 j-=1
             return True
-    def validPalindrome(self, s: str) -> bool:
+        
         left =0
         right = len(s)-1
 
         while left < right:
             if s[left] != s[right]:
-                return self.is_pallindrome(s,left+1,right) or self.is_pallindrome(s,left,right-1)
+                return is_pallindrome(left+1,right) or is_pallindrome(left,right-1)
             
             left +=1
             right -=1
