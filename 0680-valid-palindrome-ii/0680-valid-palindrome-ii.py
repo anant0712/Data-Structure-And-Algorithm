@@ -14,7 +14,6 @@ class Solution:
         while left < right:
             if s[left] != s[right]:
                 return is_pallindrome(left+1,right) or is_pallindrome(left,right-1)
-            
             left +=1
             right -=1
         return True
