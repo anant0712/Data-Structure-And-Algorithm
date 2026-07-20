@@ -7,6 +7,7 @@ class Solution:
                 i+=1
                 j-=1
             return True
+            
         left =0
         right = len(s)-1
 
