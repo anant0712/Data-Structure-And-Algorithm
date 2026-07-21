@@ -109,6 +109,7 @@ Last updated: 24/03/2026
 | [0387-first-unique-character-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0409-longest-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0551-student-attendance-record-i) |
+| [0647-palindromic-substrings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1768-merge-strings-alternately) |
@@ -126,6 +127,7 @@ Last updated: 24/03/2026
 | [0118-pascals-triangle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0647-palindromic-substrings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Last updated: 24/03/2026
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1768-merge-strings-alternately) |
