@@ -7,18 +7,18 @@ class Solution:
         j = len(b) - 1
 
         while i >= 0 or j >= 0 or carry:
-            total = carry
-        
-            if i >= 0:
-                total += int(a[i])
-                i -= 1
-            if j >= 0:
-                total += int(b[j])
-                j -= 1
-                
-        # Determine the current bit (0 or 1) and the new carry
-            res.append(str(total % 2))
-            carry = total // 2
+            digit_a = int(a[i]) if i >= 0 else 0
+            digit_b = int(b[j]) if j >= 0 else 0
 
-    # Reverse the array and join into a single string
-        return "".join(reversed(res))
+            total = digit_a + digit_b + carry
+            res.append(str(total % 2))
+            
+            # Update carry (total // 2 will be 1 if total is 2 or 3, else 0)
+            carry = total // 2
+            
+            # Move pointers left
+            i -= 1
+            j -= 1
+            
+        # The result is built backwards, so reverse it
+        return "".join(res[::-1])
