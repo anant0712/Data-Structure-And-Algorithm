@@ -33,6 +33,7 @@ Last updated: 24/03/2026
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3637-trionic-array-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3637-trionic-array-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Last updated: 24/03/2026
 | [1331-rank-transform-of-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Last updated: 24/03/2026
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Last updated: 24/03/2026
 | [0680-valid-palindrome-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1768-merge-strings-alternately) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,6 +205,7 @@ Last updated: 24/03/2026
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,4 +227,8 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
