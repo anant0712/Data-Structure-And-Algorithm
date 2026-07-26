@@ -23,6 +23,7 @@ Last updated: 24/03/2026
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0706-design-hashmap) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -48,6 +49,7 @@ Last updated: 24/03/2026
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -73,6 +75,7 @@ Last updated: 24/03/2026
 | [0066-plus-one](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
