@@ -18,7 +18,6 @@ class Solution:
             if pb == None:
                 pb = headA
             else:
-                pb = pb.next
-            
+                pb = pb.next  
         return pa
         
