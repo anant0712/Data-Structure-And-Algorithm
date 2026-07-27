@@ -9,18 +9,16 @@ class Solution:
         pa = headA
         pb = headB
 
-        while pa != pb:
-
-            if pa== None:
+        while pa!=pb:
+            if pa == None:
                 pa = headB
             else:
                 pa = pa.next
-
+            
             if pb == None:
                 pb = headA
             else:
                 pb = pb.next
-
+            
         return pa
         
-
