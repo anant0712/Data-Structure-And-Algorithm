@@ -18,6 +18,7 @@ Last updated: 24/03/2026
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@ Last updated: 24/03/2026
 | [0066-plus-one](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -162,6 +164,7 @@ Last updated: 24/03/2026
 | [0141-linked-list-cycle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0344-reverse-string) |
