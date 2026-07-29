@@ -22,6 +22,7 @@ Last updated: 24/03/2026
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ Last updated: 24/03/2026
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -241,6 +243,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
