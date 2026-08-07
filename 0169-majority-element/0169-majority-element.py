@@ -1,5 +1,6 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        # BOYER MOORE VOTING ALGORITHM
         candidate = 0
         majority_element = 0
 
