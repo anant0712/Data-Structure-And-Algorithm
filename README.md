@@ -273,4 +273,8 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
