@@ -199,6 +199,7 @@ Last updated: 24/03/2026
 | ------- |
 | [0020-valid-parentheses](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -247,6 +248,7 @@ Last updated: 24/03/2026
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -263,6 +265,7 @@ Last updated: 24/03/2026
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
