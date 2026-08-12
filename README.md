@@ -283,5 +283,6 @@ Last updated: 24/03/2026
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
