@@ -4,7 +4,6 @@ class Solution:
         freq_map = {}
         for num in nums:
             freq_map[num] = freq_map.get(num,0)+1
-
         # Creating buckets where index means frequency
         buckets = [[] for i in range(len(nums)+1)]
         for num,freq in freq_map.items():
