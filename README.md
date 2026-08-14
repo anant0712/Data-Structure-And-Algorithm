@@ -23,6 +23,7 @@ Last updated: 24/03/2026
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ Last updated: 24/03/2026
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -114,6 +116,7 @@ Last updated: 24/03/2026
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0525-contiguous-array) |
@@ -193,10 +196,12 @@ Last updated: 24/03/2026
 | [0053-maximum-subarray](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -279,6 +284,7 @@ Last updated: 24/03/2026
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -289,4 +295,12 @@ Last updated: 24/03/2026
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
