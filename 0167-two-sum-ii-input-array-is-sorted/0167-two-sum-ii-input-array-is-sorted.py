@@ -4,13 +4,13 @@ class Solution:
         #Thus,I created left pointer to point the first element of the array and right pointer to point the last element of an array.
         left = 0
         right = len(numbers)-1
-        
         # We check the condition until left is smaller than right.
         while left<right:
-            if numbers[left] + numbers[right] == target:
-                return [left+1,right+1]                
+            total = numbers[left] + numbers[right]
+            if total == target:
+                return [left+1,right+1]
             
-            elif numbers[left] + numbers[right] < target:
+            elif total < target:
                 left +=1
             else:
                 right -= 1
