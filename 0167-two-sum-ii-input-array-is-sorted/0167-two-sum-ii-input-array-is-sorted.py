@@ -7,12 +7,10 @@ class Solution:
         
         # We check the condition until left is smaller than right.
         while left<right:
-            total = numbers[left] + numbers[right]
-
-            if total == target:
-                return [left+1,right+1]
+            if numbers[left] + numbers[right] == target:
+                return [left+1,right+1]                
             
-            elif total < target:
+            elif numbers[left] + numbers[right] < target:
                 left +=1
             else:
                 right -= 1
