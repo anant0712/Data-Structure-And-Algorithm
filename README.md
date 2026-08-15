@@ -19,6 +19,7 @@ Last updated: 24/03/2026
 | [0118-pascals-triangle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
@@ -186,6 +187,7 @@ Last updated: 24/03/2026
 | [0143-reorder-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
@@ -225,6 +227,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
