@@ -11,6 +11,7 @@ Last updated: 24/03/2026
 | [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0066-plus-one) |
@@ -164,6 +165,7 @@ Last updated: 24/03/2026
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
@@ -180,6 +182,7 @@ Last updated: 24/03/2026
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0125-valid-palindrome) |
@@ -216,6 +219,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0234-palindrome-linked-list) |
@@ -315,4 +319,8 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
