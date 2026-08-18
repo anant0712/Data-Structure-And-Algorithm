@@ -6,7 +6,6 @@ class Solution:
          # We initialize the maximum height from both the ends
         leftMax,rightMax = height[left],height[right]
         res = 0 
-
         while left < right:
             if leftMax < rightMax:
                 left += 1
