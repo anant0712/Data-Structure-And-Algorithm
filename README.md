@@ -154,6 +154,7 @@ Last updated: 24/03/2026
 | [0551-student-attendance-record-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1768-merge-strings-alternately) |
@@ -199,6 +200,7 @@ Last updated: 24/03/2026
 | [0345-reverse-vowels-of-a-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1768-merge-strings-alternately) |
@@ -224,6 +226,7 @@ Last updated: 24/03/2026
 | [0143-reorder-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
@@ -298,6 +301,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
