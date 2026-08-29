@@ -224,6 +224,7 @@ Last updated: 24/03/2026
 | [0020-valid-parentheses](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
@@ -278,6 +279,7 @@ Last updated: 24/03/2026
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0706-design-hashmap) |
 ## Hash Function
