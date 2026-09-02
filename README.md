@@ -21,6 +21,7 @@ Last updated: 24/03/2026
 | [0118-pascals-triangle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ Last updated: 24/03/2026
 | [0066-plus-one](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -225,6 +227,7 @@ Last updated: 24/03/2026
 | [0020-valid-parentheses](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0234-palindrome-linked-list) |
