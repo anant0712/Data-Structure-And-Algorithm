@@ -38,6 +38,7 @@ Last updated: 24/03/2026
 | [0628-maximum-product-of-three-numbers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0706-design-hashmap) |
+| [0746-min-cost-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -185,6 +186,7 @@ Last updated: 24/03/2026
 | [0322-coin-change](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
