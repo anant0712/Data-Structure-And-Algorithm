@@ -1,13 +1,9 @@
 class Solution:
-    def climbStairs(self, n: int) -> int:
-        if n<=2:
+    def climbStairs(self,n,memo={}):
+        if(n<=3):
             return n
-        
-        a,b=1,2
-        for _ in range(3,n+1):
-            # curr = a + b
-            a,b = b,a+b
-            # b = curr
-        
-        return b
-       
+
+        if n in memo:
+            return memo[n]
+        memo[n]= self.climbStairs(n-1,memo) + self.climbStairs(n-2,memo)
+        return memo[n]
