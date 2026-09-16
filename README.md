@@ -29,6 +29,7 @@ Last updated: 24/03/2026
 | [0217-contains-duplicate](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0525-contiguous-array) |
@@ -181,6 +182,7 @@ Last updated: 24/03/2026
 | [0118-pascals-triangle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0647-palindromic-substrings) |
 ## Memoization
@@ -265,6 +267,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,4 +351,12 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0074-search-a-2d-matrix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
