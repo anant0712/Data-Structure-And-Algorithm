@@ -50,6 +50,7 @@ Last updated: 24/03/2026
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3637-trionic-array-i](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3637-trionic-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
