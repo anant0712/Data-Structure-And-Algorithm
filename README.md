@@ -9,6 +9,7 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -58,6 +59,7 @@ Last updated: 24/03/2026
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0605-can-place-flowers) |
@@ -201,6 +203,7 @@ Last updated: 24/03/2026
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
