@@ -1,5 +1,5 @@
 class Solution:
-    def maximumProduct(self, nums: List[int]) -> int:
+    def maximumProduct(self, nums: list[int]) -> int:
         max1 = max2 = max3 = float('-inf')
         min1=min2=float('inf')
 
@@ -24,4 +24,3 @@ class Solution:
         prod2 = min1*min2*max1
         
         return max(prod1,prod2)
-
