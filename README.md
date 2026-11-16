@@ -25,6 +25,7 @@ Last updated: 24/03/2026
 | [0118-pascals-triangle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ Last updated: 24/03/2026
 | [0003-longest-substring-without-repeating-characters](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0169-majority-element) |
@@ -380,4 +382,8 @@ Last updated: 24/03/2026
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0069-sqrtx) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anant0712/Data-Structure-And-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
